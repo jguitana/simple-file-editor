@@ -3,8 +3,8 @@
 
 A Tab open in a TabPane with a TextArea inside a ScollPane.
 
-![solarized palette](https://github.com/jguitana/simple-file-editor/images/editor.jpg "File Editor")
+![solarized palette](https://github.com/jguitana/simple-file-editor/blob/master/images/editor.jpg?raw=true "File Editor")
 
 Find and Replace functionality.
 
-![solarized palette](https://github.com/jguitana/simple-file-editor/images/editor2.jpg "File Editor")
+![solarized palette](https://github.com/jguitana/simple-file-editor/blob/master/images/editor2.jpg?raw=true "File Editor")
